@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PlanningPokerUser</string>
+    <string name="et_name_text">Name</string>
+    <string name="btn_login_text">Log In</string>
+    <string name="active_user">Active User</string>
+    <string name="active_group">Active Group</string>
+    <string name="active_question">Active Question</string>
+    <string name="user_vote">User Vote</string>
+    <string name="tv_title_groups_text">Groups</string>
+    <string name="vote">Vote</string>
+    <string name="tv_question_label">Question:</string>
+    <string name="tv_title_votes_text">Votes</string>
+    <string name="tv_group_text">Group:</string>
+
+</resources>
